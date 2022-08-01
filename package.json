@@ -1,6 +1,6 @@
 {
-  "name": "@imran_basha_10d/training-pubish",
-  "version": "0.2.0",
+  "name": "training-publish-demo",
+  "version": "0.3.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
