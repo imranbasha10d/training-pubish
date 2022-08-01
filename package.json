@@ -1,5 +1,5 @@
 {
-  "name": "training-pubish",
+  "name": "@imran/training-pubish",
   "version": "0.1.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
